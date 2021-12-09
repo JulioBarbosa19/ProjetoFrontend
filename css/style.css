@@ -1,0 +1,23 @@
+img {
+    max-width: 100%;
+}
+figure{
+    max-width: 200px;
+}
+
+#txtPesquisa{
+    width: 752px;
+    height: 56px;
+    border-radius: 8px;
+    color: antiquewhite;
+    background-color: rgba(255, 255, 255, 0.16);
+} 
+
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    background-color: darkblue;
+    
+ 
+}
