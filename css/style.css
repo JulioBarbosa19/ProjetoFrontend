@@ -3,6 +3,7 @@ img {
 }
 figure{
     max-width: 200px;
+
 }
 
 #txtPesquisa{
@@ -16,8 +17,8 @@ figure{
 .cabecalho{
     display: flex;
     align-items: center;
-    justify-content:space-evenly;
-    background-color: darkblue;
-    
- 
+    justify-content:flex-start;
+    background-color: #051D3B;
+    gap: 180px;
 }
+
